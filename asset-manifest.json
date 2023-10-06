@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/library-system/static/css/main.53bddeea.css",
-    "main.js": "/library-system/static/js/main.90dd0995.js",
-    "static/js/787.590847e5.chunk.js": "/library-system/static/js/787.590847e5.chunk.js",
-    "static/media/Reading book (1).gif": "/library-system/static/media/Reading book (1).75592d15c5140ecd3e8f.gif",
-    "static/media/Recipe book-pana.svg": "/library-system/static/media/Recipe book-pana.f84902fe62b2774c1c8e0b3246195dc2.svg",
-    "index.html": "/library-system/index.html",
-    "main.53bddeea.css.map": "/library-system/static/css/main.53bddeea.css.map",
-    "main.90dd0995.js.map": "/library-system/static/js/main.90dd0995.js.map",
-    "787.590847e5.chunk.js.map": "/library-system/static/js/787.590847e5.chunk.js.map"
+    "main.css": "/library-System/static/css/main.53bddeea.css",
+    "main.js": "/library-System/static/js/main.f827f182.js",
+    "static/js/787.590847e5.chunk.js": "/library-System/static/js/787.590847e5.chunk.js",
+    "static/media/Reading book (1).gif": "/library-System/static/media/Reading book (1).75592d15c5140ecd3e8f.gif",
+    "static/media/Recipe book-pana.svg": "/library-System/static/media/Recipe book-pana.f84902fe62b2774c1c8e0b3246195dc2.svg",
+    "index.html": "/library-System/index.html",
+    "main.53bddeea.css.map": "/library-System/static/css/main.53bddeea.css.map",
+    "main.f827f182.js.map": "/library-System/static/js/main.f827f182.js.map",
+    "787.590847e5.chunk.js.map": "/library-System/static/js/787.590847e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53bddeea.css",
-    "static/js/main.90dd0995.js"
+    "static/js/main.f827f182.js"
   ]
 }
